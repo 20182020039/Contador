@@ -1,0 +1,112 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Laborarorios",
+      "provenance": [],
+      "collapsed_sections": [],
+      "toc_visible": true,
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/SebastianMT512/Contador/blob/master/Laborarorios.py%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "9J7p406abzgl"
+      },
+      "source": [
+        "<img height=\"150px\" src=\"https://drive.google.com/thumbnail?id=1mT7gB_hQKNYbS6MNOptoocWmgFqi5N1g\" align=\"left\" hspace=\"5px\" vspace=\"0\n",
+        "px\">\n",
+        "\n",
+        "#Welcome to Laboratory!\n",
+        "\n",
+        "En este espacio encontrarás laboratorios completos realizados paso a paso que te ayudarán a entender el lenguaje Python y poder aplicar lo aprendido en la solución de los talleres y retos que deben desarrollarse en repl.it\n",
+        "\n",
+        "\\\n",
+        "# ¿Que es Laboratory?\n",
+        "\n",
+        "Esta herramienta se llama [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb), y es muy útil ya nos permite ver en una pagina texto, imágenes, videos, links, como cualquier página de internet, pero además es un entorno colaborativo que permite que podamos escribir programas en Python y los interpreta. Es por eso que hemos seleccionado esta herramienta para nuestros **laboratorios**\n",
+        "\n",
+        "# ¿Como funciona?\n",
+        "Un doumento en Colab se divide en celdas o filas, en unas encontraras texto (como esta que estas leyendo) y en otras encontraras código Python, estas se llamán **celdas de código** como lasiguiente:\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "4QhAoT0vPAlR",
+        "outputId": "38c8ec63-b14c-4683-b813-6a25b87ee359"
+      },
+      "source": [
+        "# Soy una celda de código\n",
+        "x=3+6\n",
+        "print(x)"
+      ],
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "9\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "kVKfS2JQPF-C"
+      },
+      "source": [
+        "Para que el interprete de Python ejecute el programa anterior, haz clic en la celda de código para seleccionarlo y luego presiona el botón de reproducción ubicado a la izquierda de la celda o también puedes usar la combinación de teclas \"Command/Ctrl + Enter\". \n",
+        "\n",
+        "Para editar el código que alli se encuentra, solo haz clic en la celda y comienza a programar.\n",
+        "\n",
+        "# ¿Que debo hacer?\n",
+        "La lista de laboratorios se encuentra justo aqui abajo, solo selecciona el que desees hacer dandole clic. Asegurate de entrar con una cuenta de google y de grabar los cambios que hagas.  \"Command/Ctrl + S\" o Archivo--Grabar"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "Qev2g92DWtH3"
+      },
+      "source": [
+        "#Lista de laboratorios\n",
+        "  ## Semana dos \n",
+        "- [Hola Mundo](https://colab.research.google.com/drive/1fAGYlAY6RUkR4RwEFr3suVrCyzFh_K5h?usp=sharing)\n",
+        "- [Expresiones y operadores](https://colab.research.google.com/drive/1Lyk-jYt5CCblklAgzVEeDjpZC_EP2FYM?usp=sharing)\n",
+        "- [Entrada estándar](https://colab.research.google.com/drive/1E80sIx2drL8298L-6w_EJzBcRqo12ULM?usp=sharing)\n",
+        "-  [Funciones](https://colab.research.google.com/drive/1MPSnFJyGBD18TtTcerS1Ee_D-eBZifUC?usp=sharing)\n",
+        "\n",
+        "## Semana tres\n",
+        "-  [Uso de Módulos](https://colab.research.google.com/drive/1FMfkArhx96I5LjNTa50Fj5S6h9TwvMle?usp=sharing)\n",
+        "-  [Condicionales y Cadenas](https://colab.research.google.com/drive/19xDhDcoOBd7jV7L5RVCaf03zqOCo_Wad?usp=sharing)\n",
+        "-  [Expresiones Lógicas](https://colab.research.google.com/drive/15iiZyNRQn1ftH8XrM8HiYbXHVblWXEI7?usp=sharing)"
+      ]
+    }
+  ]
+}
